@@ -18,7 +18,7 @@ Para Mozilla Firefox ->  https://github.com/mozilla/geckodriver/releases
 ## Ambiente
 No diretório de sua escolha, realize a clonagem deste projeto do GitHub
 ```
-git clone
+git clone https://github.com/fmgflavio/AutomacaoCompraAmazon.git
 ```
 
 Certifique-se de possuir o Python instalado.
